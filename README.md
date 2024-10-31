@@ -1,7 +1,8 @@
 <h2> Sobre mim: </h2>
 <h3> Olá, me chamo Lucas Biasi!</h3>
 <p> 
-um pouco de tudo e um monte de nada
+meus projetos ficaram na conta que perdi: https://github.com/zLucasBiasi 
+
 </p>
 
 <div style="display: inline_block"><br>
